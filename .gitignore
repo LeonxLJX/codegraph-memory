@@ -1,0 +1,6 @@
+node_modules/
+lib/
+tests/.tmp-store/
+*.tgz
+*.log
+.DS_Store
