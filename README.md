@@ -132,6 +132,16 @@ cli/index.mjs   # remember / recall / related / forget / list / stats
 tests/          # 10 node:test cases
 ```
 
+
+## Related
+
+同一批「给 AI 编码代理补基础设施」的项目：
+
+- [agent-trace](https://github.com/LeonxLJX/agent-trace) — harness 中立会话可观测
+- [prompt-forge](https://github.com/LeonxLJX/prompt-forge) — 提示词模板引擎
+- [design-specs-web](https://github.com/LeonxLJX/design-specs-web) — 中文 UI 库 DESIGN.md 规范包
+- [web-engineer-skills](https://github.com/LeonxLJX/web-engineer-skills) — 前端工程 Agent 技能库
+
 ## License
 
 MIT
